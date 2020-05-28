@@ -1,2 +1,3 @@
 # veejayhits
-VJ software for visual artists
+
+app for art collage
